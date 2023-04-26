@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Oscar and I'm 16, and a sophomore in highschool
+### Hi there 👋 I'm Oscar, I'm 16, and a HS sophomore. 
 
 - 🔭 I’m currently working on NP Link, my web-app built for non-profits/charities
 - 🌱 I’d like to learn C++, Java, Docker, and maybe AWS?
