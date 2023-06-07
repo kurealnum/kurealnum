@@ -8,7 +8,7 @@
 - You can reach me by my personal email: oscar.gaske.cs@gmail.com, or my discord: kureal#2398
 
 
-You can't center images :<
+You can't center images in .md files :<
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurealnum&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
