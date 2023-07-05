@@ -9,7 +9,7 @@ I'm always looking to collaborate! 👋<br>
 </h2>
 
 <p align="center">
-Hello! I'm Oscar. I'm going into Computer Science as a college major, and I'd like to start with Django (and anything with python backend), but work my way into full stack. In terms of personal projects, I'm always looking for help with my personal project <a href="https://github.com/kurealnum/Non-Profit-Link/">NP Link (NPL)</a>. I also think that I'd like to turn my <a href="https://github.com/kurealnum/Data-Structures-and-Algorithms">DSA repo</a> into a package at somepoint.
+Hello! I'm Oscar, and I'm going into Computer Science as a college major. In terms of my career, I'd like to start with Django (and anything with python backend), but work my way into full stack. In terms of personal projects, I'm always looking for help with my personal project <a href="https://github.com/kurealnum/Non-Profit-Link/">NP Link (NPL)</a>. I also think that I'd like to turn my <a href="https://github.com/kurealnum/Data-Structures-and-Algorithms">DSA repo</a> into a package at somepoint.
 <p/>
 
 <h2 align="center">Tech Stack 🎩</h2>
