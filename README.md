@@ -31,11 +31,16 @@ Hello! I'm Oscar, and I'm going into Computer Science as a college major. In ter
 
 
 <h2 align="center">Github information 📚</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurealnum&hide_progress=false&theme=radical">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurealnum&theme=radical">
 </p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kurealnum&show_icons=true&theme=radical">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurealnum&hide_progress=false&theme=radical">
 </p>
 
