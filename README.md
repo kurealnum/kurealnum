@@ -1,4 +1,4 @@
-<h1 align="center">Professional Nerd | 16 | HS Junior</h1>
+<h1 align="center">Professional CS nerd | 16 | HS Junior</h1>
 
 <h2 align="center">
 Working on binary trees and graph algorithms 🌳 <br>
@@ -13,7 +13,7 @@ Hello, I'm Oscar!
 <br>
 I'm a highschool junior with a keen interest for computer science, particularly interested in starting my career with Django, and working my way to becoming a full stack developer.
 <br><br/>
-<b><i>If you're looking to contribute to any repos</i></b>, I'm always looking for help with my personal project <a href="https://github.com/kurealnum/Non-Profit-Link/">NP Link (NPL)</a>. I also think that I'd like to turn my <a href="https://github.com/kurealnum/Data-Structures-and-Algorithms">DSA repo</a> into a package at somepoint.
+<b><i>If you're looking to contribute to any repos</i></b>, I'm always looking for help with my personal project <a href="https://github.com/kurealnum/Non-Profit-Link/">NP Link (NPL)</a>. I also think that I'd like to turn my <a href="https://github.com/kurealnum/Data-Structures-and-Algorithms">DSA repo</a> into a package at somepoint. If you want to know more about me (or stalk me, that's fine too), here's my <a href="https://linktr.ee/kureal">linktree</a>.
 <p/>
 
 <h2 align="center">Tech Stack 🎩</h2>
