@@ -2,7 +2,7 @@
 
 <h2 align="center">
 Working on binary trees and graph algorithms 🌳 <br>
-Currently learning Django, DSA, and Java ☕<br>
+Currently learning Django, DSA, and React 💫<br>
 I'm always looking to collaborate! 👋<br>
 <br>
 <i>Contact me at: oscar.gaske.cs@gmail.com, kureal#0464</i> 📨
@@ -40,11 +40,4 @@ I'm a highschool junior with a keen interest for computer science, particularly 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurealnum&theme=radical">
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kurealnum&show_icons=true&theme=radical">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurealnum&hide_progress=false&theme=radical">
-</p>
 
