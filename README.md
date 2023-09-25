@@ -9,9 +9,9 @@ I'm always looking to collaborate! 👋<br>
 </h2>
 
 <p align="center">
-Hello, I'm Oscar!
+Hi, I'm Oscar 👋.
 <br>
-I'm a highschool junior with a keen interest for computer science, particularly interested in starting my career with Django, and working my way to becoming a full stack developer.
+I'm 16, and I'm a passionate aspiring full stack web developer. I love working with Django, TypeScript, and all things algorithms.
 <br><br/>
 <b><i>If you're looking to contribute to any repos</i></b>, I'm always looking for help with my personal project <a href="https://github.com/kurealnum/Non-Profit-Link/">NP Link (NPL)</a>. I also think that I'd like to turn my <a href="https://github.com/kurealnum/Data-Structures-and-Algorithms">DSA repo</a> into a package at somepoint. If you want to know more about me (or stalk me, that's fine too), here's my <a href="https://linktr.ee/kureal">linktree</a>.
 <p/>
