@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **django and my opinions on OOP**
 
-- 📫 How to reach me **oscar.gaske.cs@gmail.com**
+- 📫 How to reach me **oscar.gaske.cs@gmail.com**https://www.youtube.com/@Oscar_CS
 
 - 📄 Check out my resume here! [https://docs.google.com/document/d/104CdIhV0xpPLE5--gmSbonsOXHvxtyxsc5pmr79R42k/edit#heading=h.sr3e2nlhgu9x](https://docs.google.com/document/d/104CdIhV0xpPLE5--gmSbonsOXHvxtyxsc5pmr79R42k/edit#heading=h.sr3e2nlhgu9x)
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://dev.to/kurealnum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kurealnum" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22869868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22869868" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/oscar_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oscar_cs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Oscar_CS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oscar_cs" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kureal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kureal" height="30" width="40" /></a>
 </p>
 
