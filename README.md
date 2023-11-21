@@ -11,11 +11,13 @@
 
 - 👨‍💻 Visit me at [https://kureal.pythonanywhere.com/home/](https://kureal.pythonanywhere.com/home/)
 
+- 📫 How to reach me **oscar.gaske.cs@gmail.com**
+
+- 🔍 Find extra contact information [here](https://linktr.ee/kureal)
+
 - 📝 I occasionally articles on Dev.to [https://dev.to/kurealnum](https://dev.to/kurealnum)
 
 - 💬 Ask me about **django and my opinions on OOP**
-
-- 📫 How to reach me **oscar.gaske.cs@gmail.com**https://www.youtube.com/@Oscar_CS
 
 - 📄 Check out my resume here! [https://docs.google.com/document/d/104CdIhV0xpPLE5--gmSbonsOXHvxtyxsc5pmr79R42k/edit#heading=h.sr3e2nlhgu9x](https://docs.google.com/document/d/104CdIhV0xpPLE5--gmSbonsOXHvxtyxsc5pmr79R42k/edit#heading=h.sr3e2nlhgu9x)
 
