@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurealnum&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
-- 🔭 I’m currently working on [data-structures-and-algorithms (the repository!)](https://github.com/kurealnum/data-structures-and-algorithms)
+- 🤝 I’m looking for help with [Non-Profit link](https://github.com/kurealnum/non-profit-link)
 
 - 🌱 I’m currently learning **advanced data structures and algorithms**
 
-- 🤝 I’m looking for help with [Non-Profit link](https://github.com/kurealnum/non-profit-link)
+- 🔭 I’m currently working on [data-structures-and-algorithms (the repository!)](https://github.com/kurealnum/data-structures-and-algorithms)
 
 - 👨‍💻 Visit me at [https://kureal.pythonanywhere.com/home/](https://kureal.pythonanywhere.com/home/)
 
-- 📫 How to reach me **oscar.gaske.cs@gmail.com**
+- 📫 You can reach me at **oscar.gaske.cs@gmail.com**
 
 - 🔍 Find extra contact information [here](https://linktr.ee/kureal)
 
-- 📝 I occasionally articles on Dev.to [https://dev.to/kurealnum](https://dev.to/kurealnum)
+- 📝 I occasionally write articles on Dev.to [https://dev.to/kurealnum](https://dev.to/kurealnum)
 
 - 💬 Ask me about **django and my opinions on OOP**
 
