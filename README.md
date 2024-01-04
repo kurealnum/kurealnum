@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurealnum&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurealnum" alt="kurealnum" /></a> </p>
-
 - 🤝 I’m looking for help with [Non-Profit link](https://github.com/kurealnum/non-profit-link)
 
 - 🌱 I’m currently learning **vim/neovim**
@@ -37,4 +35,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurealnum&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kurealnum" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurealnum&show_icons=true&theme=tokyonight&locale=en" alt="kurealnum" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurealnum" alt="kurealnum" /></a> </p>
 
