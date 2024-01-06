@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/kurealnum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kurealnum" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22869868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22869868" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/oscar_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oscar_cs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCrz1EgFHSkWpRkS0P-CPSXg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oscar_cs" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kureal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kureal" height="30" width="40" /></a>
 </p>
 
