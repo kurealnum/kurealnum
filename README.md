@@ -3,24 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurealnum&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
-- 🤝 I’m looking for help with [Non-Profit link](https://github.com/kurealnum/non-profit-link)
+- probably workkng on [Non-Profit link](https://github.com/kurealnum/non-profit-link) or something private
 
-- 🌱 I’m currently learning **vim/neovim**
+- [visit me](https://kureal.pythonanywhere.com/home/)
 
-- 🔭 I sometimes work on [data-structures-and-algorithms (the repository!)](https://github.com/kurealnum/data-structures-and-algorithms)
+- you can reach me at **oscar.gaske.cs@gmail.com**
 
-- 👨‍💻 Visit me at [https://kureal.pythonanywhere.com/home/](https://kureal.pythonanywhere.com/home/)
+- find extra contact information [here](https://linktr.ee/kureal)
 
-- 📫 You can reach me at **oscar.gaske.cs@gmail.com**
-
-- 🔍 Find extra contact information [here](https://linktr.ee/kureal)
-
-- 📝 I occasionally write articles on Dev.to [https://dev.to/kurealnum](https://dev.to/kurealnum)
-
-- 💬 Ask me about **django and my opinions on OOP**
-
-- 📄 Check out my resume here! [https://docs.google.com/document/d/104CdIhV0xpPLE5--gmSbonsOXHvxtyxsc5pmr79R42k/edit#heading=h.sr3e2nlhgu9x](https://docs.google.com/document/d/104CdIhV0xpPLE5--gmSbonsOXHvxtyxsc5pmr79R42k/edit#heading=h.sr3e2nlhgu9x)
-  
+- [resume ^^](https://docs.google.com/document/d/104CdIhV0xpPLE5--gmSbonsOXHvxtyxsc5pmr79R42k/edit#heading=h.sr3e2nlhgu9x)  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kurealnum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kurealnum" height="30" width="40" /></a>
@@ -36,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurealnum&show_icons=true&theme=tokyonight&locale=en" alt="kurealnum" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurealnum" alt="kurealnum" /></a> </p>
+
 
