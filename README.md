@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">An aspiring full stack web dev specializng in backend primarily working with Django & Postgres. Looking to get into competitive programming.</h3>
+<h3 align="center">An aspiring full stack web dev specializng in backend development, primarily working with Django & Postgres. Looking to get into competitive programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurealnum&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
