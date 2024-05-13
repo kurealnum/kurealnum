@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurealnum&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
-- probably workkng on [Non-Profit link](https://github.com/kurealnum/non-profit-link)(view the finished product here: https://non-profit-link.xyz/) or something private
+- probably workkng on [Non-Profit link](https://github.com/kurealnum/non-profit-link) (view the finished product here: https://nonprofitlink.org) or something private
 
 - [visit me](https://kureal.pythonanywhere.com/home/)
 
