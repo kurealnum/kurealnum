@@ -11,7 +11,9 @@
 
 - find extra contact information [here](https://linktr.ee/kureal)
 
-- [resume ^^](https://docs.google.com/document/d/104CdIhV0xpPLE5--gmSbonsOXHvxtyxsc5pmr79R42k/edit#heading=h.sr3e2nlhgu9x)  
+- [resume ^^](https://docs.google.com/document/d/104CdIhV0xpPLE5--gmSbonsOXHvxtyxsc5pmr79R42k/edit#heading=h.sr3e2nlhgu9x)
+
+- i use neovim btw 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kurealnum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kurealnum" height="30" width="40" /></a>
