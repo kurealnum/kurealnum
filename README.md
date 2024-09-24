@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurealnum&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
-- probably working on [Non-Profit link](https://github.com/kurealnum/non-profit-link) (view the finished product here: https://nonprofitlink.org) or something private
+- working on noai blog (the name is a work in progress) and recording my progress [here](https://www.youtube.com/@Oscar_CS)
+
+- [here's a cool thing i did](https://nonprofitlink.org)
 
 - [visit me](https://kureal.pythonanywhere.com/home/)
 
@@ -13,7 +15,7 @@
 
 - [resume ^^](https://docs.google.com/document/d/104CdIhV0xpPLE5--gmSbonsOXHvxtyxsc5pmr79R42k/edit#heading=h.sr3e2nlhgu9x)
 
-- i use neovim btw 
+- i use neovim & arch btw 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kurealnum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kurealnum" height="30" width="40" /></a>
