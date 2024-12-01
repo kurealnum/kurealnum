@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurealnum&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
-- working on noai blog (the name is a work in progress) and recording my progress [here](https://www.youtube.com/@Oscar_CS)
+- byeAI is live! check it out [here](https://byeai.dev/)
+
+- recording my progress [here](https://www.youtube.com/@Oscar_CS)
 
 - [here's a cool thing i did](https://nonprofitlink.org)
 
