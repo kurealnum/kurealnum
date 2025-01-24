@@ -5,7 +5,7 @@
 
 - byeAI is live! check it out [here](https://byeai.dev/)
 
-- recording my progress [here](https://www.youtube.com/@Oscar_CS)
+- recording stuff [here](https://www.youtube.com/@Oscar_CS)
 
 - [here's a cool thing i did](https://nonprofitlink.org)
 
@@ -16,6 +16,8 @@
 - find extra contact information [here](https://linktr.ee/kureal)
 
 - [resume ^^](https://docs.google.com/document/d/104CdIhV0xpPLE5--gmSbonsOXHvxtyxsc5pmr79R42k/edit#heading=h.sr3e2nlhgu9x)
+
+- no, I don't use any automated commits/tests/tools to generate my contribution graph
 
 - i use neovim & arch btw 
 <h3 align="left">Connect with me:</h3>
