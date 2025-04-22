@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">An aspiring full stack web dev specializing in backend development, primarily working with Django & Postgres. Looking to work as a tutor or a developer</h3>
+<h4 align="center">full-stack web developer specializing in backend development, content creator, and low level programmer sometimes</h4>
+
+<p>Looking to work as a tutor (highschool level mathematics/SAT) or software developer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurealnum&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
 - byeAI is live! check it out [here](https://byeai.dev/)
-
-- recording stuff [here](https://www.youtube.com/@Oscar_CS)
 
 - [here's a cool thing i did](https://nonprofitlink.org)
 
@@ -19,8 +19,8 @@
 
 - no, I don't use any automated commits/tests/tools to generate my contribution graph
 
-- i use neovim & arch btw 
-<h3 align="left">Connect with me:</h3>
+i use neovim & arch btw 
+<h3 align="left">contact me</h3>
 <p align="left">
 <a href="https://dev.to/kurealnum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kurealnum" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22869868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22869868" height="30" width="40" /></a>
