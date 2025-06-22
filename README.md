@@ -5,17 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurealnum&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
-- byeAI is live! check it out [here](https://byeai.dev/)
-
-- [here's a cool thing i did](https://nonprofitlink.org)
-
-- [visit me](https://kureal.pythonanywhere.com/home/)
+- [visit me](https://oscargaske.me)
 
 - you can reach me at **oscar.gaske.cs@gmail.com**
 
 - find extra contact information [here](https://linktr.ee/kureal)
 
-- [resume ^^](https://docs.google.com/document/d/104CdIhV0xpPLE5--gmSbonsOXHvxtyxsc5pmr79R42k/edit#heading=h.sr3e2nlhgu9x)
+- [resume](https://docs.google.com/document/d/180oIGS-b6a3lX5bJ8rr5woHj9C-0erdY4vaRei85ksw/edit?tab=t.0)
 
 - no, I don't use any automated commits/tests/tools to generate my contribution graph
 
