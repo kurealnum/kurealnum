@@ -7,7 +7,7 @@
 
 - [visit me](https://oscargaske.me)
 - [resume](https://docs.google.com/document/d/180oIGS-b6a3lX5bJ8rr5woHj9C-0erdY4vaRei85ksw/edit?tab=t.0)
-- you can reach me at **oscar.gaske.cs@gmail.com** ([more contact info](https://linktr.ee/kureal))
+- you can reach me at **oscar.gaske.cs@gmail.com** ([more contact info](https://linktr.ee/oscargaske))
 
 no, I don't use any automated commits/tests/tools to generate my contribution graph
 
