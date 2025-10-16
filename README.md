@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h4 align="center">full-stack web developer specializing in backend development, content creator, low level programmer. nvim & arch user</h4>
 
-<p>interning @ <a href="https://www.toddagriscience.com/">Todd</a>, open to 2026 spring/summer internships!</p>
+full-stack web developer specializing in backend development, content creator, low level programmer. nvim & arch user (i'm absolutely cracked)
+
+<p>founding software engineer @ <a href="https://www.toddagriscience.com/">Todd</a>, open to other SWE work</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurealnum&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
