@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 
-full-stack web developer specializing in backend development, content creator, low level programmer. nvim & arch user (i'm absolutely cracked)
+founding software engineer @ [Todd](https://www.toddagriscience.com/), SWE intern @ [Pelican](https://www.pelicanappsolutions.com/). hmu if you got work for me. might start a company tho.
 
-<p>founding software engineer @ <a href="https://www.toddagriscience.com/">Todd</a>, open to other SWE work</p>
+full-stack web developer specializing in backend development, content creator, low level programmer. nvim & arch user (i'm absolutely cracked)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurealnum&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
