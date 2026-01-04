@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 
-founding software engineer @ [Todd](https://www.toddagriscience.com/), SWE intern @ [HoaFlo](https://www.pelicanappsolutions.com/). hmu if you got work for me. might start a company tho.
+founding software engineer @ [Todd](https://www.toddagriscience.com/)
 
 full-stack web developer specializing in backend development, content creator, low level programmer. nvim & arch user (i'm absolutely cracked)
 
