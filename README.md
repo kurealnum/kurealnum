@@ -1,6 +1,6 @@
 full-stack, building in my free time. i do everything from Rust to Next.js
 
-prev. founding software engineer @ [Todd](https://www.toddagriscience.com/)
+prev. founding software engineer @ [Todd](https://www.toddagriscience.com/), now building [Choreographd](https://choreographd.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurealnum&label=Profile%20views&color=0e75b6&style=flat" alt="kurealnum" /> </p>
 
