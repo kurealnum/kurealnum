@@ -1,4 +1,4 @@
-building [choreographd.com](https://choreographd.com/) and [dearly](https://dearly.to)
+building [choreographd.com](https://choreographd.com/) and [dearly.to](https://dearly.to)
 
 current SWE intern @ [zenithflow](https://github.com/zenithflowinc/), prev. founding software engineer @ [todd](https://www.toddagriscience.com/)
 
