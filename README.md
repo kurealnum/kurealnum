@@ -1,6 +1,6 @@
-save $$$ on tokens with OSS: [tokenmaxer](https://github.com/kurealnum/tokenmaxer)
+pivoting [choreographd.com](https://choreographd.com/v2-waitlist)
 
-building [choreographd.com](https://choreographd.com/) + [dearly.to](https://dearly.to)
+save $$$ on tokens with OSS: [tokenmaxer](https://github.com/kurealnum/tokenmaxer)
 
 software engineer @ [zenithflow](https://github.com/zenithflowinc/), prev. founding software engineer @ [todd](https://www.toddagriscience.com/)
 
