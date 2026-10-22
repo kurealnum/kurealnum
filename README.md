@@ -1,6 +1,4 @@
-pivoting [choreographd.com](https://choreographd.com/v2-waitlist)
-
-save $$$ on tokens with OSS: [tokenmaxer](https://github.com/kurealnum/tokenmaxer)
+building tools for educators and researching @ [SCL](https://github.com/second-chance-labs)
 
 software engineer @ [zenithflow](https://github.com/zenithflowinc/), prev. founding software engineer @ [todd](https://www.toddagriscience.com/)
 
