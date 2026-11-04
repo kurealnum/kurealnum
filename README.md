@@ -1,4 +1,4 @@
-building tools for educators and researching @ [SCL](https://github.com/second-chance-labs)
+building tools for educators @ [rudy](https://userudy.com/) + researching @ [SCL](https://github.com/second-chance-labs)
 
 software engineer @ [zenithflow](https://github.com/zenithflowinc/), prev. founding software engineer @ [todd](https://www.toddagriscience.com/)
 
